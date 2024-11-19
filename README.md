@@ -8,7 +8,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
 
 </h1>
-
+ 
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+ 
 - 🔭 I’m currently working as [ **Data Engineer Intern** ]
 
 - 🌱 I’m currently learning **Data Analyst Best Practices**

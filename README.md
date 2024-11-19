@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://sqlbolt.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/free-image/server-database-PNG-free-PNG-Images_23836#google_vignette" alt="aws" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://sqlbolt.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/server-database-11530974811xpmegz19pp.png" alt="aws" width="40" height="40"/> </a> 
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353475/bash.svg" alt="bash" width="40" height="40"/> </a> 
 

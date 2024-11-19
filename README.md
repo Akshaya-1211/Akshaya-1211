@@ -4,7 +4,8 @@
 
 <h1>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/demo/?color=20F727&separator=%3C&lines=Data+analytics+is+the+future%2C+and+the+future+is+NOW!+Every+mouse+click%2C+keyboard+button+press%2C+swipe%2C+or+tap+is+used+to+shape+business+decisions.+Everything+is+about+data+these+days.+Data+is+information%2C+and+information+is+power.%2B%F0%9F%8D%9E;%F0%9F%A4%9D%2B+Let's+%2B+connect+%2B+%F0%9F%8C%90" alt="Typing SVG" /> </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=20F727&multiline=true&width=550&height=150&lines=Driven+by+a+passion+for+turning+%F0%9F%93%A6+data+into+;impactful+insights%2C+I%E2%80%99m+eager+to+connect+and+;explore+a+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBData+Analyst++role+where+I+can+;make+a++difference.+;%F0%9F%A4%9D+Lets+connect+.." alt="Typing SVG" /> </a> 
 </h1>
 
 - 🔭 I’m currently working as [ **Data Engineer Intern** ]

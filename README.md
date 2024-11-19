@@ -1,4 +1,4 @@
-<img src="https://lottie.host/embed/0ab80735-98b6-47d2-9e75-4c78bb148cf4/B2ZW3WkbLf.json" >
+<img src="https://img.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_613284-1574.jpg?t=st=1732011767~exp=1732015367~hmac=5b1d987627d3573b81e4a341348cdda832227ecc7f307a466b8aaef83ffe917f&w=2000" >
 <h1 align="center">Hi 👋, I'm Akshaya</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 

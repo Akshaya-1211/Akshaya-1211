@@ -32,7 +32,9 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" alt="MySQL" width="40" height="40"/> 
   </a> 
 
-
+ <a href="[https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1]" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="Power BI" width="40" height="40"/> 
+  </a> 
+  
  </p>
 
 

@@ -40,9 +40,9 @@
   </a> 
 <a href="[https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1]" target="_blank" rel="noreferrer"> <img src= "https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo-thumbnail.png" alt="Power BI" width="40" height="40"/> 
   </a> 
- <a href="[https://sqlbolt.com/" target="_blank" rel="noreferrer](https://www.sap.com/india/account.html?campaigncode=crm-ya23-int-2034141&source=ppc-in-googleads--71700000116285013-58700008621251541-x_x-x-x- x&gad_source=1&gclid=Cj0KCQiAi_G5BhDXARIsAN5SX7pZH087pardBLPTgzyJd0OJXm_wFnJvHHMPD3cz2cCaEIBYVtmpM04aAr90EALw_wcB&gclsrc=aw.ds
-)"> <img src="[https://toppng.com/uploads/preview/server-database-11530974811xpmegz19pp.png](https://toppng.com/uploads/preview/sap-ag-co-kg-vector-logo-free-download-11574037621ere1k2gujq.png
-)" alt="SQL" width="40" height="40"/> 
+ <a href="https://www.sap.com/india/account.html?campaigncode=crm-ya23-int-2034141&source=ppc-in-googleads--71700000116285013-58700008621251541-x_x-x-x-x&gad_source=1&gclid=Cj0KCQiAi_G5BhDXARIsAN5SX7pZH087pardBLPTgzyJd0OJXm_wFnJvHHMPD3cz2cCaEIBYVtmpM04aAr90EALw_wcB&gclsrc=aw.ds
+" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/sap-ag-co-kg-vector-logo-free-download-11574037621ere1k2gujq.png
+" alt="SAP BODS" width="40" height="40"/> 
   </a> 
   
  </p>

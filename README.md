@@ -32,7 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-<a href="https://sqlbolt.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/server-database-11530974811xpmegz19pp.png" alt="SQL" width="40" height="40"/</a> 
+<a href="https://sqlbolt.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/server-database-11530974811xpmegz19pp.png" alt="SQL" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" alt="MySQL" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/ython-sticker-4-python-language-11563018712w7lkxbnox0.png" alt="Python" width="40" height="40"/> </a> 
 <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1" target="_blank" rel="noreferrer"> <img src= "https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo-thumbnail.png" alt="Power BI" width="40" height="40"/> </a> 

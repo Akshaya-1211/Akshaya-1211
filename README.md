@@ -1,4 +1,6 @@
 <img src="https://img.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_613284-1574.jpg?t=st=1732011767~exp=1732015367~hmac=5b1d987627d3573b81e4a341348cdda832227ecc7f307a466b8aaef83ffe917f&w=2000" >
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1024">
 <h1 align="center">Hi 👋, I'm Akshaya</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 

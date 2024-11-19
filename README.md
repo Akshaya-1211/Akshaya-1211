@@ -3,10 +3,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1024">
 <h1 align="center">Hi 👋, I'm Akshaya</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=20F727&width=750&lines=%22Passionate+about+transforming+data+into+insights;%E2%80%94+%F0%9F%A4%9D+let's+connect+for+a+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Data+Analyst+role!%22" alt="Typing SVG" /></a>
-
   <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
 
 </h1>

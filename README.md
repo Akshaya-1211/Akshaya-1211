@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mudigiriakshaya12@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/akshaya-mudigiri/](https://www.linkedin.com/in/akshaya-mudigiri/)
+- 📄 Know about my experiences [[https://akshaya-1211.github.io/Akshaya_Mudigiri_Portofolio/]](https://akshaya-1211.github.io/Akshaya_Mudigiri_Portofolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Akshaya-1211" height="30" width="40" /></a>

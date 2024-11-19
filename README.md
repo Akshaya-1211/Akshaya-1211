@@ -26,24 +26,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://sqlbolt.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/server-database-11530974811xpmegz19pp.png" alt="aws" width="40" height="40"/> </a> 
+<p align="left"> 
+  
+  <a href="https://sqlbolt.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/server-database-11530974811xpmegz19pp.png" alt="SQL" width="40" height="40"/> 
+  </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" alt="MySQL" width="40" height="40"/> 
+  </a> 
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353475/bash.svg" alt="bash" width="40" height="40"/> </a> 
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-
-
-
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </p>
+ </p>
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapil987&show_icons=true&locale=en&layout=compact" alt="kapil987" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapil987&show_icons=true&locale=en" alt="kapil987" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapil987&" alt="kapil987" ></p>

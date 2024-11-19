@@ -41,9 +41,11 @@
 </a> 
 <a href="https://matplotlib.org/"> <img src="https://images.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="matplotlib" width="40" height="40"/> </a> 
 <a href="https://www.tableau.com/"> <img src="https://toppng.com/uploads/preview/tableau-tableau-software-11564230575eotdec4m6e.png" alt="tableau" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/"> <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://numpy.org/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" alt="numpy" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="ms excel" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlquQbehFaMuUwUN32KhAS4AxK7WTUtKuZBQ&s" alt="numpy" width="40" height="40"/> </a> 
+
 </p>
   
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1024">

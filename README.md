@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_613284-1574.jpg?t=st=1732011767~exp=1732015367~hmac=5b1d987627d3573b81e4a341348cdda832227ecc7f307a466b8aaef83ffe917f&w=2000" >
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1024">
 <h1 align="center">Hi 👋, I'm Akshaya</h1>

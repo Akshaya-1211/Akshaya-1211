@@ -1,4 +1,4 @@
-<img src="https://lottie.host/embed/0ab80735-98b6-47d2-9e75-4c78bb148cf4/B2ZW3WkbLf.json" alt="Typing SVG" /> </a>
+<img src="https://lottie.host/embed/0ab80735-98b6-47d2-9e75-4c78bb148cf4/B2ZW3WkbLf.json" >
 <h1 align="center">Hi 👋, I'm Akshaya</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 

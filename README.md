@@ -32,7 +32,7 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" alt="MySQL" width="40" height="40"/> 
   </a> 
 
- <a href="[https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1]" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/b862fc0c-93a4-4b9a-a9fe-63469fbb76dc)" alt="Power BI" width="40" height="40"/> 
+ <a href="[https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fmicrosoft-power-bi-logo%2F&psig=AOvVaw2SQy6loUVmg9HOfR5aOl4D&ust=1732111583811000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjVntPI6IkDFQAAAAAdAAAAABAZ]" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/b862fc0c-93a4-4b9a-a9fe-63469fbb76dc)" alt="Power BI" width="40" height="40"/> 
   </a> 
   
  </p>

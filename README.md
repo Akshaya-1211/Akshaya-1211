@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=20F727&multiline=true&width=550&height=150&lines=Driven+by+a+passion+for+turning+%F0%9F%93%A6+data+into+;impactful+insights%2C+I%E2%80%99m+eager+to+connect+and+;explore+a+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBData+Analyst++role+where+I+can+;make+a++difference.+;%F0%9F%A4%9D+Lets+connect+.." alt="Typing SVG" /> </a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1500&pause=1000&color=20F727&multiline=true&width=750&height=150&lines=%22Passionate+about+transforming+data+into+insights;%E2%80%94+%F0%9F%A4%9D+let's+connect+for+a+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Data+Analyst+role!%22" alt="Typing SVG" /></a>
 </h1>
 
 - 🔭 I’m currently working as [ **Data Engineer Intern** ]

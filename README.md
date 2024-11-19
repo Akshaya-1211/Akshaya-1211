@@ -39,7 +39,7 @@
 <a href="https://www.sap.com/india/account.html?campaigncode=crm-ya23-int-2034141&source=ppc-in-googleads--71700000116285013-58700008621251541-x_x-x-x-x&gad_source=1&gclid=Cj0KCQiAi_G5BhDXARIsAN5SX7pZH087pardBLPTgzyJd0OJXm_wFnJvHHMPD3cz2cCaEIBYVtmpM04aAr90EALw_wcB&gclsrc=aw.ds
 " target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/sap-ag-co-kg-vector-logo-free-download-11574037621ere1k2gujq.png" alt="SAP BODS" width="40" height="40"/> 
 </a> 
-<a href="https://matplotlib.org/"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="SQL" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/"> <img src="https://images.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="SQL" width="40" height="40"/> </a> 
 <a href=""> <img src="" alt="SQL" width="40" height="40"/> </a> 
 <a href=""> <img src="" alt="SQL" width="40" height="40"/> </a> 
 <a href=""> <img src="" alt="SQL" width="40" height="40"/> </a> 

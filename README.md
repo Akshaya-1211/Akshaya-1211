@@ -39,11 +39,11 @@
 <a href="https://www.sap.com/india/account.html?campaigncode=crm-ya23-int-2034141&source=ppc-in-googleads--71700000116285013-58700008621251541-x_x-x-x-x&gad_source=1&gclid=Cj0KCQiAi_G5BhDXARIsAN5SX7pZH087pardBLPTgzyJd0OJXm_wFnJvHHMPD3cz2cCaEIBYVtmpM04aAr90EALw_wcB&gclsrc=aw.ds
 " target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/sap-ag-co-kg-vector-logo-free-download-11574037621ere1k2gujq.png" alt="SAP BODS" width="40" height="40"/> 
 </a> 
-<a href="https://matplotlib.org/"> <img src="https://images.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="SQL" width="40" height="40"/> </a> 
-<a href=""> <img src="" alt="SQL" width="40" height="40"/> </a> 
-<a href=""> <img src="" alt="SQL" width="40" height="40"/> </a> 
-<a href=""> <img src="" alt="SQL" width="40" height="40"/> </a> 
-<a href=""> <img src="" alt="SQL" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/"> <img src="https://images.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="matplotlib" width="40" height="40"/> </a> 
+<a href="https://www.tableau.com/"> <img src="https://toppng.com/uploads/preview/tableau-tableau-software-11564230575eotdec4m6e.png" alt="tableau" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/"> <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://numpy.org/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en/microsoft-365/excel?market=af"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="ms excel" width="40" height="40"/> </a> 
 </p>
   
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1024">
